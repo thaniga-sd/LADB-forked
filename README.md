@@ -2,6 +2,8 @@
 
 A local ADB shell for Android!
 
+💡 Support the Developer: LADB is also available on Google Play. If you can, please buy it there to support tytydraco.
+
 # How does it work?
 
 LADB bundles an ADB server within the app libraries. Normally, this server cannot connect to the local device because it
@@ -28,11 +30,8 @@ and rebooting.
 
 The license is mostly permissive other than it does not allow unofficial builds to be released to the Google Play Store.
 
-# Support
-
-Still confused? Email me at tylernij+LADB@gmail.com.
-
-We also have a Telegram server here: https://t.me/ladb_support.
+🙏 Credits
+LADB created by: tytydraco - https://github.com/tytydraco
 
 # Privacy Policy
 
